@@ -1,0 +1,36 @@
+
+.face{
+    background-color: blue;
+    height: 7vh;
+}
+.book{
+    color: white;
+    text-align: center;
+}
+.bt{ 
+    width: 40%;
+    margin-left: 120px;
+}
+hr{
+    width: 30%;
+}
+.cre{
+    width: 40%;
+    margin-left: 120px;
+    background-color: #66C566 !important;
+    border: none;
+}
+.forgot{
+    padding-left: 29%;
+}
+.coun{
+    padding-left: 20%;
+    color: gray;
+}
+.in{
+    padding-left: 29%;
+    color: gray;
+}
+.bot{
+    background-color: blue;
+}
